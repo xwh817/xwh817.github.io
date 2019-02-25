@@ -7,7 +7,7 @@ def updateIndex():
         if os.path.isdir(dir):
             children = os.listdir(dir)
             print('- ' + dir + '\n')
-            targetFile.write('- ' + dir)
+            targetFile.write('- ' + dir + '\n')
             for item in children:
                 if item.endswith('md'):
                     strs = item.rsplit(".", 1)

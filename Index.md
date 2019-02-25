@@ -1,4 +1,6 @@
-- .git- Android  - [Android DataBinding](./Android/Android%20DataBinding.md)
+- .git
+- Android
+  - [Android DataBinding](./Android/Android%20DataBinding.md)
   - [Android Studio](./Android/Android%20Studio.md)
   - [Android优化](./Android/Android%E4%BC%98%E5%8C%96.md)
   - [Android内存优化](./Android/Android%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96.md)
@@ -14,27 +16,32 @@
   - [RecycleView](./Android/RecycleView.md)
   - [View、ViewGroup、事件](./Android/View%E3%80%81ViewGroup%E3%80%81%E4%BA%8B%E4%BB%B6.md)
   - [多媒体](./Android/%E5%A4%9A%E5%AA%92%E4%BD%93.md)
-- Java  - [Java随记](./Java/Java%E9%9A%8F%E8%AE%B0.md)
+- Java
+  - [Java随记](./Java/Java%E9%9A%8F%E8%AE%B0.md)
   - [netty](./Java/netty.md)
   - [rxjava](./Java/rxjava.md)
   - [多线程](./Java/%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
   - [泛型](./Java/%E6%B3%9B%E5%9E%8B.md)
   - [设计模式](./Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
   - [面向对象](./Java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
-- Notes  - [FFmpeg](./Notes/FFmpeg.md)
+- Notes
+  - [FFmpeg](./Notes/FFmpeg.md)
   - [Node.js](./Notes/Node.js.md)
   - [技术随记](./Notes/%E6%8A%80%E6%9C%AF%E9%9A%8F%E8%AE%B0.md)
-- Recent  - [AI之机器学习](./Recent/AI%E4%B9%8B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+- Recent
+  - [AI之机器学习](./Recent/AI%E4%B9%8B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
   - [OpenCV](./Recent/OpenCV.md)
   - [python学习](./Recent/python%E5%AD%A6%E4%B9%A0.md)
-- Tools  - [Git](./Tools/Git.md)
+- Tools
+  - [Git](./Tools/Git.md)
   - [Gradle](./Tools/Gradle.md)
   - [Mac使用](./Tools/Mac%E4%BD%BF%E7%94%A8.md)
   - [MarkDown](./Tools/MarkDown.md)
   - [Shell](./Tools/Shell.md)
   - [Ubuntu](./Tools/Ubuntu.md)
   - [Vim](./Tools/Vim.md)
-- 大前端  - [Flutter学习](./大前端/Flutter%E5%AD%A6%E4%B9%A0.md)
+- 大前端
+  - [Flutter学习](./大前端/Flutter%E5%AD%A6%E4%B9%A0.md)
   - [flux & redux](./大前端/flux%20%26%20redux.md)
   - [JavaScript](./大前端/JavaScript.md)
   - [Kotlin学习](./大前端/Kotlin%E5%AD%A6%E4%B9%A0.md)
