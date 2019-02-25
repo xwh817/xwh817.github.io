@@ -1,4 +1,3 @@
-- .git
 - Android
   - [Android DataBinding](./Android/Android%20DataBinding.md)
   - [Android Studio](./Android/Android%20Studio.md)

@@ -4,7 +4,7 @@ def updateIndex():
     dirList = os.listdir('./')
     targetFile = open('Index.md', "w", encoding="utf-8")
     for dir in dirList:
-        if os.path.isdir(dir):
+        if os.path.isdir(dir) and not dir.startswith('.'):
             children = os.listdir(dir)
             print('- ' + dir + '\n')
             targetFile.write('- ' + dir + '\n')
