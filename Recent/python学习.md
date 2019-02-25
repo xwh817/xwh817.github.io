@@ -28,7 +28,7 @@
      # 格式化输出
     print("name: %s, no: %d" % (name, no))
 ```
-- 列表，有序集合 ==list== []
+- 列表，有序集合 **list** []
 ```python
     L = ['Adam', 'Lisa', 'Bart']
     print L[2]    # 打印Bart
@@ -43,7 +43,7 @@
         L = range(1, 100)
         L[2:50:3]     # 取出小于50的3的倍数
 ```
-- 元祖，固定的有序列表 ==tuple== ()
+- 元祖，固定的有序列表 **tuple** ()
 ```python
     # tuple没有 append()方法，也没有insert()和pop()方法。
     t = ('Adam', 'Lisa', 'Bart')

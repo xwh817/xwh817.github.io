@@ -10,7 +10,7 @@ def updateIndex():
             targetFile.write('- ' + dir + '\n')
             for item in children:
                 if item.endswith('md'):
-                    strs = item.rsplit(".", 1)
+                    strs = item.rsplit(".", 1) # 截取最后一个'.'
                     if len(strs) == 2:
                         url = urllib.parse.quote(item)
                         strItem = '  - [{}](./{}/{})'.format(strs[0], dir, url)
